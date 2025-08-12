@@ -19,6 +19,9 @@ const styles = StyleSheet.create({
         width: '80%',
         flexDirection: 'column',
         alignItems: 'center',
+    },
+    buttonsContainer: {
+        width: '50%'
     }
 })
 
