@@ -9,11 +9,9 @@ const styles = StyleSheet.create({
         backgroundColor: "#333333"
     },
     logoContainer: {
-        borderWidth: 2,
         marginBottom: 60,
         paddingTop: 20,
         paddingBottom: 10,
-        backgroundColor: '#4D4D4D'
     },
     inputContainer: {
         width: '80%',
