@@ -21,7 +21,12 @@ const styles = StyleSheet.create({
         fontWeight: 'bold',
         fontSize: 16,
         letterSpacing: 0.25
-    }
+    },
+    inputContainer: {
+        width: '80%',
+        flexDirection: 'column',
+        alignItems: 'center',
+    },
 });
 
 export default styles;
